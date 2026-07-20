@@ -1,6 +1,7 @@
 # Forecasting del Tipo de Cambio USD/Guaraní (Paraguay)
 
 Proyecto Final — Series Temporales
+
 **Autor:** [César Núñez]
 
 ---
