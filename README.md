@@ -2,7 +2,7 @@
 
 Proyecto Final — Series Temporales
 
-**Autor:** [César Núñez]
+**Autor:** César Núñez
 
 ---
 
