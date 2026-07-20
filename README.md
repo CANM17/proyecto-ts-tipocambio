@@ -1,7 +1,7 @@
 # Forecasting del Tipo de Cambio USD/Guaraní (Paraguay)
 
 Proyecto Final — Series Temporales
-**Autores:** [Nombre Integrante 1], [Nombre Integrante 2]
+**Autor:** César Núñez
 
 ---
 
@@ -250,15 +250,4 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/03_evaluacion.ipyn
 
 O simplemente abrir los notebooks en Jupyter/VS Code y correrlos celda a celda, en orden.
 
-## 10. Checklist de entrega
 
-- [x] Dataset elegido y justificado (real, oficial del Banco Central del Paraguay)
-- [x] Preprocesamiento completo (imputación de feriados, EDA, estacionariedad en niveles y diferenciada, ACF/PACF)
-- [x] 2 modelos de categorías distintas (estadístico + Machine Learning), con selección de orden por AIC y diagnóstico Ljung-Box
-- [x] Evaluación con RMSE, MAE, MAPE (+ sMAPE, MASE, R² opcionales), con horizontes de pronóstico comparables entre modelos
-- [x] Comparación de modelos
-- [x] Visualizaciones de predicciones y residuales
-- [x] README.md con reporte completo
-- [x] Presentación de 10 diapositivas (`presentacion.pptx`)
-- [ ] Repositorio subido a GitHub *(pendiente: crear repo y hacer push)*
-- [ ] Ambos integrantes revisaron y participaron *(completar nombres y roles)*
