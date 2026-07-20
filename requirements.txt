@@ -1,0 +1,18 @@
+# Versiones fijas (==) en vez de mínimos (>=): con las versiones exactas
+# usadas para generar los resultados de este repositorio, los números de
+# XGBoost son reproducibles bit a bit. Los de ARIMA pueden variar en la
+# 2da-3era cifra decimal incluso con las mismas versiones (ver README,
+# sección de hallazgos), por la naturaleza numérica del optimizador de
+# máxima verosimilitud — esto es inherente a ese tipo de modelo, no algo
+# que fijar versiones resuelva del todo, pero sí lo acerca lo más posible.
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.8
+statsmodels==0.14.6
+scikit-learn==1.8.0
+xgboost==3.3.0
+jupyter>=1.0
+nbformat>=5.10
+nbconvert>=7.16
+lxml
